@@ -6,6 +6,26 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanansari12" alt="amanansari12" /></a> </p>
 
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+<img src="https://gpvc.arturio.dev/amanansari12" alt="Profile Views" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=amanansari12&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=amanansari12&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanansari12&layout=compact&theme=tokyonight" />
+</p>
+
+
 - 🌱 I'm currently learning **Kotlin and Android App Development (Jetpack Compose)**
 
 - 👯 I'm looking to collaborate on **Open Source Projects**
@@ -14,21 +34,52 @@
 
 - 📫 How to reach me **mdamanansari702@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/amanansari12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="amanansari12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aman-ansari-058932245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-ansari-058932245" height="30" width="40" /></a>
-<a href="https://instagram.com/heyy.aman_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyy.aman_17" height="30" width="40" /></a>
-<a href="https://hackerrank.com/mdamanansari702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdamanansari702" height="30" width="40" /></a>
-<a href="https://leetcode.com/amanansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amanansari" height="30" width="40" /></a>
+## 🌐 Socials:
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/amanansari12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-ansari-058932245)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyy.aman_17)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdamanansari702@gmail.com)
+
+## 🧩 Coding Profiles
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://hackerrank.com/mdamanansari702)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=yellow)](https://leetcode.com/amanansari)
+
+## 💻 Tech Stack
+
+### 🌱 Currently Learning
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a></p>
+### 🧑‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanansari12&show_icons=true&locale=en&layout=compact" alt="amanansari12" /></p>
+### 🧩 Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=django" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanansari12&show_icons=true&locale=en" alt="amanansari12" /></p>
+### 🗄 Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanansari12&" alt="amanansari12" /></p>
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amanansari12&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=amanansari12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanansari12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amanansari12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=amanansari12&icon=0&color=0)](https://visitcount.itsvg.in)
 
