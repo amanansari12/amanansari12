@@ -2,9 +2,9 @@
 
 ### MCA student at Delhi University with a strong interest in software development, eager to learn and grow.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanansari12&label=Profile views&color=0e75b6&style=flat" alt="amanansari12" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanansari12&label=Profile views&color=0e75b6&style=flat" alt="amanansari12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanansari12" alt="amanansari12" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanansari12" alt="amanansari12" /></a> </p> -->
 
 
 <h2 align="center">📊 GitHub Analytics</h2>
